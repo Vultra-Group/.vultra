@@ -26,7 +26,7 @@ Estamos sempre abertos a contribuições. Siga os passos abaixo para colaborar c
 
 ## Suporte 🛎️📞
 
-Para dúvidas ou suporte, entre em contato conosco através do nosso [site oficial](https://www.vultra.com) ou envie um e-mail para suporte@vultra.com. Nossa equipe está pronta para ajudar com qualquer questão.
+Para dúvidas ou suporte, entre em contato conosco através do nosso [site oficial](https://www.vultra.tech) ou envie um e-mail para contato@vultra.tech. Nossa equipe está pronta para ajudar com qualquer questão.
 
 ## Licença 📜🔑
 
